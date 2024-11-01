@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         // Creación del un estudiante (original)
-        Estudiante estudianteOriginal = new Estudiante("Mary Paz Alavrez Navarrete", "12345678", 19, "2023138604");
+        Estudiante estudianteOriginal = new Estudiante("Mary Paz Alvarez Navarrete", "12345678", 19, "2023138604");
 
         // Creación de un funcionario (original)
         Funcionario funcionarioOriginal = new Funcionario("Katherine Rodriguez Amador", "23456789", 26, "Profesora");
