@@ -5,5 +5,5 @@ Mary Paz Álvarez Navarrete
 ### Carné: 
 2023138604
 
-### Estado del proyecto: POr definir
+### Estado del proyecto: Excelente
 ### Enlace del video: No es necesario
