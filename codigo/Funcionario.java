@@ -27,7 +27,7 @@ public class Funcionario extends Persona {
         return info;
     }
 
-    // Se sobreescribe el método clonar para añadr el atributo de carnet
+    // Se sobreescribe el método clonar para añadr el atributo de cargo
     @Override
     public Clon clonar() {
         return new Funcionario(nombre, this.identificacion, this.edad, this.cargo);
